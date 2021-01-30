@@ -1,5 +1,5 @@
-username = Lord Soth
-password = AGCCPb7SihXyDE8U
+username = Lord Elvenar
+password = &GECSpcZgnYc8mX%
 language = beta
 world = zz1
-player_ids = 87683
+player_ids = 18683
