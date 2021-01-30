@@ -7,4 +7,4 @@ You can use this .csv file to import in Excel/Google Sheet to find Ancient Wonde
 Edit config.txt for correct username/password to log into Elvenar
 Use language = beta/world = zz1 for beta world of Elvenar
 For all other worlds use language of their game world, i.e. language = nl / world = nl2
-Use player_ids to highlight donations for specific players in .csv file with an "*"
+Use player_ids to highlight donations for specific players in .csv file with an "\*", can include multiple id's
