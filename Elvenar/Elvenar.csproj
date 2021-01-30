@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Lord Soth</Authors>
+    <Company>Unicorn Ltd.</Company>
+    <Description>Ancient Wonders Scraper for the game Elvenar</Description>
+    <Product>Elvenar Ancient Wonders Scraper</Product>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
